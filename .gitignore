@@ -160,6 +160,11 @@ datasets/*.tar.gz
 datasets/*.zip
 datasets/raw/
 datasets/processed/
+datasets/
+*.tar.gz
+*.zip
+data/
+cifar-10-batches-py/
 
 # Results and outputs
 results/*.png
