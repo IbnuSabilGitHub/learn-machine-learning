@@ -4,7 +4,7 @@ Machine learning (ML) adalah cabang dari kecerdasan buatan (AI) yang memungkinka
 Ide dasar ml adalah menggunakan data dari pengamatan masa lalu untuk memprediksi hasil atau nilai yang tidak diketahui. contoh nya Seorang dokter mungkin menggunakan data klinis dari pasien sebelumnya untuk menjalankan tes otomatis yang memprediksi apakah pasien baru berisiko terkena diabetes berdasarkan faktor-faktor seperti berat badan, kadar glukosa darah, dan pengukuran lainnya.
 
 ## 🔎 Jenis-jenis pembelajaran mesin
-![alt text](image.png)
+![alt text](jenis_jenis_ml.png)
 
 ### 🙂 Supervised machine learning
 Supervised ML adalah istilah algoritma ML yang data pelatihannya mencakup nilai *feature* dan *nilai* label yang diketahui.
